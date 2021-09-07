@@ -1,0 +1,5 @@
+uploads/avatars/*
+!uploads/avatars/README
+uploads/banners/*
+!uploads/banners/README
+
